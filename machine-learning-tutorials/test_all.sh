@@ -1,0 +1,1 @@
+bash distributed_classification_with_Horovod/test.sh
